@@ -3,7 +3,7 @@ alert(`Hurmatli ${malumot}, Sizga ba'zi bir savollarimiz bor!!!`);
 
 let a = 15.5;
 let b = 10.35;
-alert(`Birinchi vazifa: ${a + b} - bu yerda a+b amaliyotini bajardik!!!`);
+alert(`Birinchi vazifa: ${a + b} - bu yerda a(15.5)+b(10.35) amaliyotini bajardik!!!`);
 
 let ikkinchiVazifa = prompt("a sonini kiriting");
 let uchinchiVazifa = prompt("b sonini kiriting");
